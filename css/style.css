@@ -1,0 +1,420 @@
+.btn{
+    height: 50px;
+    width: 150px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.navbar{
+    position: sticky;
+    top:0px;
+    background: inherit;
+    background-color: white;
+}
+.navbar a{
+    font-size: 20px;
+    font-weight:300px;
+   
+}
+.header{
+    position: relative;
+    background-color: inherit;
+    color: black;
+}
+.col-sm-10 p{
+    font-size: 17px;
+}
+.table p{
+    font-size: 20px;
+    font-weight: bold;
+}
+.i{
+    border-radius: 20px;
+}
+.p{
+    margin: 0px -200px 0px 0px;
+}
+.h h3{
+     margin-left: 20px;
+    color: aqua;
+    font-weight: bolder;
+}
+.h p{
+    margin-left: 22px;
+    font-size:small;
+    color: black;
+}
+.h h4,h5{
+    margin-left: 20px;
+}
+
+
+
+
+.ms0{
+    margin-left: 20px;
+}
+.ms1{
+    margin-left: 100px;
+}
+
+.ms2{
+    margin-left: 180px;
+}
+
+.ms3{
+    margin-left: 260px;
+}
+
+.col{
+    background-color:whitesmoke;
+    margin-left: 25px;
+    width: 300px;
+    border-radius: 20px;
+    height: 170px;
+    margin-top: -70px;
+}
+.col-sm-12 h4 {
+    padding-left: 70px;
+}
+.col-sm-12 p {
+    padding-left: 25px;
+}
+.o{
+    margin-left: 100px;
+}
+.r h4{
+    padding-left: 80px;
+}
+.imag{
+    
+    background: linear-gradient(rgb(193, 193, 211),transparent),url(../images/dam.jpg);
+}
+.imag h2{
+    margin: 150px 0px 0px 300px;
+}
+.water h2{
+       margin-top: 50px;
+       margin-left: 300px;
+}
+.water p{
+    font-size: 20px;
+    font-weight: 400;
+}
+.para p{
+    font-size: 20px;
+    font-style: italic;
+}
+.radius{
+    border-radius: 50px;
+    margin-top: -250px;
+    position: relative;
+    background-color:rgb(231, 227, 227);
+}
+.wapda{
+    margin-top: 100px;
+}
+.sub{
+    height: 235px;
+    width: 200px;
+    border-radius: 20px;
+    background-color:white;
+    margin-left: 80px;
+}
+.sub a{
+    text-decoration: none;
+}
+.sub img{
+    margin-left: 40px;
+}
+.sub1{
+    height: 235px;
+    width: 200px;
+    border-radius: 20px;
+    background-color: white;
+    margin-left: 10px;
+}
+.sub1 a{
+    text-decoration: none;
+}
+.sub1 img{
+    margin-left: 40px;
+}
+.sub1 h4{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+.head h5{
+   margin-left: 150px;
+}
+.head a{
+    text-decoration: none;
+    font-weight: bold;
+ }
+ .moto:hover{
+    background-color: cyan;
+ }
+ .wapda h6{
+    color: aqua;
+    margin-left:550px ;
+
+ }
+ .wapda h2{
+    color: rgb(8, 8, 8);
+    margin-left:400px ;
+ }
+ .news{
+    margin-left: 20px;
+ }
+ .news img{
+    border-radius: 20px;
+ }
+.news a{
+    text-decoration: none;
+    color: rgb(29, 185, 185);
+    font-weight:bold;
+}
+.news h4{
+    font-size: 15px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.news-1{
+    margin-left: -10px;
+}
+.news-1 img{
+    border-radius: 20px;
+ }
+.news-1 a{
+    text-decoration: none;
+    color: rgb(29, 185, 185);
+    font-weight:bold;
+}
+.news-1 h4{
+    font-size: 15px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.counter-section i { display:block; margin:0 0 10px}
+.counter-section span.counter { font-size:40px; color:#000; line-height:60px; display:block; font-family: "Oswald",sans-serif; letter-spacing: 2px}
+.counter-title{ font-size:12px; letter-spacing:2px; text-transform: uppercase}
+.counter-icon {top:25px; position:relative}
+.counter-style2 .counter-title {letter-spacing: 0.55px; float: left;}
+.counter-style2 span.counter {letter-spacing: 0.55px; float: left; margin-right: 10px;}
+.counter-style2 i {float: right; line-height: 26px; margin: 0 10px 0 0}
+.counter-subheadline span {float: right;}  
+
+.medium-icon {
+    font-size: 40px !important;
+    margin-bottom: 15px !important;
+} 
+
+.container{
+    margin-top:200px;
+}
+.back{
+    background:linear-gradient(white,transparent, white) ,url(../images/back.jpg);
+    height: 700px;
+    
+}
+.careers{
+    height: 80px;
+    width: 300px;
+    background-color: inherit;
+    border-radius: 20px;
+    border: 2px solid black;
+    margin-left: 0px;
+    margin-top: -600px;
+}
+.careers a{
+    text-decoration: none;
+    color: rgb(9, 227, 243);
+}
+.careers img{
+    float: left;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.careers h3{
+    font-size: 20px;
+    margin-left: 70px;
+    margin-top: 30px;
+    
+}
+.careers1{
+    margin-left: 100px;
+    height: 80px;
+    width: 300px;
+    background-color: inherit;
+    border-radius: 20px;
+    border: 2px solid black;
+    margin-top: -600px;
+
+}
+.careers1 a{
+    text-decoration: none;
+    color: rgb(9, 241, 241);
+}
+.careers1 img{
+    float: left;
+    margin-top: 8px;
+    margin-left: 5px;
+}
+.careers1 h3{
+    font-size: 20px;
+    margin-left: 70px;
+    margin-top: 10px;
+    
+}
+
+.careers0{
+    height: 80px;
+    width: 300px;
+    background-color: inherit;
+    border-radius: 20px;
+    border: 2px solid black;
+    margin-left: 0px;
+    margin-top: -400px;
+}
+.careers0 a{
+    text-decoration: none;
+    color: rgb(9, 237, 245);
+}
+.careers0 img{
+    float: left;
+    margin-top: 8px;
+    margin-left: 5px;
+}
+.careers0 h3{
+    font-size: 20px;
+    margin-left: 70px;
+    margin-top: 25px;
+    
+}
+.careers2{
+    margin-left: 100px;
+    height: 80px;
+    width: 300px;
+    background-color: inherit;
+    border-radius: 20px;
+    border: 2px solid black;
+    margin-top: -400px;
+
+}
+.careers2 a{
+    text-decoration: none;
+    color: rgb(7, 214, 241);
+}
+.careers2 img{
+    float: left;
+    margin-top: 8px;
+    margin-left: 5px;
+}
+.careers2 h3{
+    font-size: 20px;
+    margin-left: 70px;
+    margin-top: 15px;
+    
+}
+.careers3{
+    height: 80px;
+    width: 300px;
+    background-color: inherit;
+    border-radius: 20px;
+    border: 2px solid black;
+    margin-left: 0px;
+    margin-top: -200px;
+}
+.careers3 a{
+    text-decoration: none;
+    color: rgb(19, 217, 231);
+}
+.careers3 img{
+    float: left;
+    margin-top: 8px;
+    margin-left: 5px;
+}
+.careers3 h3{
+    font-size: 20px;
+    margin-left: 70px;
+    margin-top: 15px;
+    
+}
+.careers4{
+    margin-left: 100px;
+    height: 80px;
+    width: 300px;
+    background-color: inherit;
+    border-radius: 20px;
+    border: 2px solid black;
+    margin-top: -200px;
+
+}
+.careers4 a{
+    text-decoration: none;
+    color: rgb(11, 235, 235);
+}
+.careers4 img{
+    float: left;
+    margin-top: 8px;
+    margin-left: 5px;
+}
+.careers4 h3{
+    font-size: 20px;
+    margin-left: 70px;
+    margin-top: 15px;
+}
+.paragraph p{
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.paragraph img{
+    margin-left: 5px;
+}
+.colum{
+    margin-top: 100px;
+    margin-left: 20px;
+}
+.colum h2{
+    margin-left: 20px;
+}
+.colum p{
+    margin-left: 20px;
+    color: white;
+}
+.colum img{
+    float: left;
+    margin-top: 10px;
+}
+.qwe img{
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 30px;
+}
+.qwe  p{
+    margin-left: 50px;
+    margin-top:0px;
+}
+.qwe img{
+    margin-left: 10px;
+    margin-top: -5px;
+}
+.ewq p{
+    margin-left: 50px;
+    margin-top:0px;
+}
+.ewq img{
+    margin-left: -30px;
+    margin-top: -5px;
+}
+.margin a{
+    text-decoration: none;
+    color: white;
+}
+.margin h2{
+    font-size: 28px;
+    font-weight: bold;
+    color: white;
+    margin-top: 53px;
+}

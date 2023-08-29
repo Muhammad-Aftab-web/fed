@@ -1,0 +1,98 @@
+.background{
+    background: linear-gradient(lightblue,transparent),url(./img/wapda3.jpg);
+    height: 350px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar{
+    position:sticky;
+    top: 0px;
+    background-color:white;
+  
+}
+.navbar a{
+    font-size: 20px;
+    font-weight:300px;
+    position:unset;
+}
+.contstruction img{
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+    margin-left: 100px;
+}
+.table{
+    margin-left: 100px;
+    background-color: white;
+   
+    
+}
+.table img{
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+.table a{
+    text-decoration: none;
+    color: black;
+}
+.table h3{
+    font-size: 15px;
+    background-color: white;
+    height: 50px;
+    width: 165px;
+    text-align: center;
+    padding-top: 15px;
+    margin-left:130px ;
+    margin-top: -50px;
+    border-radius: 30px;
+    position: relative;
+}
+.colum{
+    margin-top: 80px;
+    margin-left: 20px;
+}
+.colum h2{
+    margin-left: 20px;
+}
+.colum p{
+    margin-left: 20px;
+    margin-top: 30px;
+    color: white;
+}
+.colum img{
+    float: left;
+    margin-top: 0px;
+}
+.qwe img{
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 30px;
+}
+.qwe  p{
+    margin-left: 30px;
+    margin-top:30px;
+}
+.qwe img{
+    margin-left: 10px;
+    margin-top: -5px;
+}
+.ewq p{
+    margin-left: 50px;
+    margin-top:0px;
+}
+.ewq img{
+    margin-left: -30px;
+    margin-top: -5px;
+}
+.margin a{
+    text-decoration: none;
+    color: white;
+}
+.margin h2{
+    color: white;
+    margin-top: 30px;
+}
+    
